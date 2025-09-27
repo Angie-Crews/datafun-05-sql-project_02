@@ -92,3 +92,12 @@ py myfile.py
 4. git add-commit-push to GitHub
 5. 
  
+### 10 Organization
+
+data/ – Stores the SQLite database (db.sqlite).
+sql_create/ – Contains SQL scripts for database setup:
+01_drop_tables.sql – Drops any existing tables
+02_create_tables.sql – Creates tables
+03_insert_records.sql – Inserts initial data
+sql_features/ – Contains SQL scripts for feature engineering and schema modifications.
+sql_analytics/ – Contains SQL scripts for analytics queries and aggregations.

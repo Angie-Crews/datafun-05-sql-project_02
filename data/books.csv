@@ -1,11 +1,18 @@
 book_id,title,genre,author_id
-B_001,To Kill a Mockingbird,Southern Gothic,A_001
-B_002,1984,Dystopian,A_002
-B_003,The Great Gatsby,Modernist,A_003
-B_004,Brave New World,Dystopian Science Fiction,A_004
-B_005,The Catcher in the Rye,Psychological Realism,A_005
-B_006,Fahrenheit 451,Dystopian Science Fiction,A_006
-B_007,Pride and Prejudice,Romantic Fiction,A_007
-B_008,The Hobbit,Fantasy,A_008
-B_009,The Lord of the Rings,Fantasy,A_009
-B_010,Harry Potter and the Philosopher's Stone,Fantasy,A_010
+B_005,To Kill a Mockingbird,Southern Gothic,A_003
+B_003,1984,Dystopian,A_002
+B_006,The Great Gatsby,Modernist,A_009
+B_007,Brave New World,Dystopian Science Fiction,A_004
+B_008,The Catcher in the Rye,Psychological Realism,A_005
+B_009,Fahrenheit 451,Dystopian Science Fiction,A_006
+B_010,Pride and Prejudice,Romantic Fiction,A_007
+B_011,The Hobbit,Fantasy,A_008
+B_012,The Lord of the Rings,Fantasy,A_009
+B_001,Harry Potter and the Philosopher's Stone,Fantasy,A_001
+B_002,Harry Potter and the Chamber of Secrets,Fantasy,A_001
+B_013,Harry Potter and the Prisoner of Azkaban,Fantasy,A_001
+B_014,Harry Potter and the Goblet of Fire,Fantasy,A_001
+B_015,Harry Potter and the Order of the Phoenix,Fantasy,A_001
+B_016,Harry Potter and the Half-Blood Prince,Fantasy,A_001
+B_017,Harry Potter and the Deathly Hallows,Fantasy,A_001
+B_018,The Old Man and the Sea,Modern Classic,A_010
