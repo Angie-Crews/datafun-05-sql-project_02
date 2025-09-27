@@ -1,3 +1,4 @@
+-- SQLite
 -- Insert books data
 INSERT INTO books (book_id, title, publication_year, author_id)
 VALUES
@@ -12,5 +13,5 @@ VALUES
    ('Book_014', 'Harry Potter and the Goblet of Fire', 2000, 'AUTHOR_001'),
    ('Book_015', 'Harry Potter and the Order of the Phoenix', 2003, 'AUTHOR_001'),
    ('Book_016', 'Harry Potter and the Half-Blood Prince', 2005, 'AUTHOR_001'),
-   ('Book_017', 'Harry Potter and the Deathly Hallows', 2007, 'AUTHOR_001');
+   ('Book_017', 'Harry Potter and the Deathly Hallows', 2007, 'AUTHOR_001'),
    ('Book_018', 'The Old Man and the Sea', 1952, 'AUTHOR_010');
