@@ -1,0 +1,11 @@
+book_id,title,genre,author_id
+B_001,To Kill a Mockingbird,Southern Gothic,A_001
+B_002,1984,Dystopian,A_002
+B_003,The Great Gatsby,Modernist,A_003
+B_004,Brave New World,Dystopian Science Fiction,A_004
+B_005,The Catcher in the Rye,Psychological Realism,A_005
+B_006,Fahrenheit 451,Dystopian Science Fiction,A_006
+B_007,Pride and Prejudice,Romantic Fiction,A_007
+B_008,The Hobbit,Fantasy,A_008
+B_009,The Lord of the Rings,Fantasy,A_009
+B_010,Harry Potter and the Philosopher's Stone,Fantasy,A_010
